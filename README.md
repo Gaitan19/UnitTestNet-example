@@ -44,19 +44,6 @@ StringManipulation/
 | 🧹  | Whitespace removal      | Clean extra spaces                   |
 | 🔍  | Palindrome check        | Detect palindrome words              |
 
-## 🛠️ Technologies
-
-### Core Stack
-![.NET Core](https://img.shields.io/badge/-512BD4?logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/-239120?logo=c-sharp&logoColor=white)
-
-### Testing
-![xUnit](https://img.shields.io/badge/-512BD4?logo=xunit&logoColor=white)
-![Moq](https://img.shields.io/badge/-black?logo=moq&logoColor=white)
-
-### Dependencies
-![Humanizer](https://img.shields.io/badge/-lightgrey?logo=nuget&logoColor=white)
-![Microsoft Logging](https://img.shields.io/badge/-lightgrey?logo=microsoft&logoColor=white)
 
 ## 🚀 Getting Started
 
