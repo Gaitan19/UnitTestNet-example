@@ -19,15 +19,6 @@ StringManipulation is a console application that provides a collection of string
 - 📦 External library integration
 - 📝 Logging capabilities
 
-## 🏛️ Architecture
-
-The system follows clean architecture principles:
-StringManipulation/
-├── Core/
-│ ├── Interfaces/ # IStringOperations, IFileReaderConector
-│ └── Services/ # StringOperations, FileReaderConector
-├── Infrastructure/ # Logger implementation
-└── Program.cs # Console interface
 
 
 ## ✨ Features
